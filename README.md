@@ -1,3 +1,5 @@
+Build website from scratch
+
 1. Show my portfolio
 2. Includes name, photo, work and contact info
 3. Links to working and deployed apps
